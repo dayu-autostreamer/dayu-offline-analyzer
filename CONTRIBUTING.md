@@ -7,7 +7,7 @@ Please make sure to read and observe our [Code of Conduct](CODE_OF_CONDUCT.md).
 # Getting started
 
 - Fork the [repository](https://github.com/dayu-autostreamer/dayu-offline-analyzer) on GitHub
-- Read the [quick start](https://github.com/dayu-autostreamer/dayu-offline-analyzer#quick-start) for deployment.
+- Read the [quick start](https://github.com/dayu-autostreamer/dayu-offline-analyzer) for deployment.
 
 # Your First Contribution
 
